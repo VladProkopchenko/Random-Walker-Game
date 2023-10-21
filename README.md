@@ -1,2 +1,2 @@
 # Random-Walker-Game
-q
+I decided to learn the Java LibGdx and decided to write a simple game
